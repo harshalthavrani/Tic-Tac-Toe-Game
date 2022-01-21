@@ -1,0 +1,11 @@
+C:\Harshal\CPA\Fall 2021\PROG 2370\HThavraniAssignment1\bin\Debug\HThavraniAssignment1.exe.config
+C:\Harshal\CPA\Fall 2021\PROG 2370\HThavraniAssignment1\bin\Debug\HThavraniAssignment1.exe
+C:\Harshal\CPA\Fall 2021\PROG 2370\HThavraniAssignment1\bin\Debug\HThavraniAssignment1.pdb
+C:\Harshal\CPA\Fall 2021\PROG 2370\HThavraniAssignment1\obj\Debug\HThavraniAssignment1.csproj.AssemblyReference.cache
+C:\Harshal\CPA\Fall 2021\PROG 2370\HThavraniAssignment1\obj\Debug\HThavraniAssignment1.Form1.resources
+C:\Harshal\CPA\Fall 2021\PROG 2370\HThavraniAssignment1\obj\Debug\HThavraniAssignment1.Properties.Resources.resources
+C:\Harshal\CPA\Fall 2021\PROG 2370\HThavraniAssignment1\obj\Debug\HThavraniAssignment1.csproj.GenerateResource.cache
+C:\Harshal\CPA\Fall 2021\PROG 2370\HThavraniAssignment1\obj\Debug\HThavraniAssignment1.csproj.CoreCompileInputs.cache
+C:\Harshal\CPA\Fall 2021\PROG 2370\HThavraniAssignment1\obj\Debug\HThavraniAssignment1.exe
+C:\Harshal\CPA\Fall 2021\PROG 2370\HThavraniAssignment1\obj\Debug\HThavraniAssignment1.pdb
+C:\Harshal\CPA\Fall 2021\PROG 2370\HThavraniAssignment1\obj\Debug\HThavraniAssignment1.Resources.resources
